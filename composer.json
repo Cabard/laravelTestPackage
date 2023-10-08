@@ -1,0 +1,26 @@
+{
+    "name": "cabard/laravel-test-package.my",
+    "description": "Testovoe sozdanie paketa dlja ispolzovanija v Laravel. Gelatelno s vika4ivaniem s Git'a",
+    "autoload": {
+        "psr-4": {
+            "Cabard\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cabard",
+            "email": "kadickov.andrei@yandex.ru",
+            "homepage": "https://github.com/Cabard",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://github.com/Cabard/laravelTestPackage",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cabard\\TestPackage\\ServiceProvider"
+            ]
+        }
+    }
+}
