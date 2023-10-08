@@ -1,5 +1,5 @@
 {
-    "name": "cabard/laravel-test-package.my",
+    "name": "cabard/laravel-test-package",
     "description": "Testovoe sozdanie paketa dlja ispolzovanija v Laravel. Gelatelno s vika4ivaniem s Git'a",
     "autoload": {
         "psr-4": {
