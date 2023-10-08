@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Cabard\\TestPackage\\ServiceProvider"
+                "Cabard\\TestPackage\\TestServiceProvider"
             ]
         }
     }
